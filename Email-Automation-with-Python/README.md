@@ -10,7 +10,7 @@ This program automates the process of sending motivational quotes to multiple re
 
 Instead of manually entering each email address, the program reads the email addresses from a CSV file, selects a random quote from a text file, and sends the quote individually to each recipient using Gmail's SMTP server.
 
-## Features
+## Features in this Program
 
 - Reads email addresses from a CSV file
 - Converts the email column into a Python list using Pandas
